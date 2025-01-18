@@ -16,7 +16,7 @@ services:
 
     # Environment variables
     environment:
-      - TZ=UTC # Timezone
+      - TZ=CST # Timezone
 
     # Ports mapping between host and container HOST:CONTAINER
     ports:
